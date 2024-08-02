@@ -1,0 +1,34 @@
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    height: 208px;
+}
+
+#main2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+#such{
+    position: absolute;
+    top: 4px;
+    /* left: 0; */
+    right: 104px;
+    top: 12px;
+    width: 243px;
+    height: 34px;
+    bottom: 4px;
+}
+#low{
+    position: absolute;
+    top: 20px;
+    right: 27%;
+}

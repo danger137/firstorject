@@ -1,0 +1,16 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+
+
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.border2{
+    border: 2px solid red !important;
+}
